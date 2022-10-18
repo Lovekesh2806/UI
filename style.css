@@ -1,0 +1,179 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+.arrow{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+i{
+    font-size: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.arrow h3{
+    padding-right: 75%;
+}
+
+.box{
+    width: 180px;
+    height: 60px;
+    background-color: rgb(8, 8, 74);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.left-box{
+    width: 1100px;
+    height: 500px;
+    padding-left: 15px;
+    background-color: rgb(250, 251, 251);
+}
+
+.image-1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    background-color: rgb(234, 243, 251);
+    border-radius: 5px;
+
+}
+
+.image-2{
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    border:4px dotted navy;
+    border-radius: 10px;
+    padding-bottom: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 190px;
+    margin-bottom: 1px;
+}
+
+.image{
+    display: flex;
+}
+
+p{
+    width: 500px;
+}
+
+h5{
+    color: rgb(193, 189, 189);
+}
+
+span{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px; 
+    padding-right: 10px;
+}
+
+.light-blue{
+    width: 1075px;
+    height: 40px;
+    background-color: rgb(216, 216, 248);
+    padding-left: 15px;
+    text-align: left;
+    border-radius:5px;
+    padding-bottom: 20px;
+}
+
+.left-box h4{
+    padding-top: 10px;
+}
+
+.light-orange1{
+    width: 1075px;
+    height: 120px;
+    background-color: rgb(244, 232, 211);
+    padding-left: 15px;
+    text-align: left;
+    border-radius:5px;
+    padding-bottom: 15px;
+}
+
+.left-box h3{
+    padding-top: 10px;
+}
+
+
+.light-orange2{
+    width: 1075px;
+    height: 120px;
+    background-color: rgb(248, 235, 213);
+    padding-left: 15px;
+    text-align: left;
+    border-radius:5px;
+    padding-bottom: 15px;
+}
+
+.big-box{
+    display: flex;
+}
+
+.right-box{
+    width: 300px;
+    padding-left: 32px;
+}
+
+.right-box .view h5{
+    width: 70px;
+}
+
+.view{
+    padding-left: 150px;
+}
+
+.color h3{
+    width: 300px;
+    height: 30px;
+    color: white;
+    background-color: rgb(13, 13, 61);
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+.right-box .background h3{
+    width: 305px;
+    height: 30px;
+    background-color: rgb(219, 219, 255);
+    padding-top: 10px;
+    padding-left: 15px;
+    border-radius: 5px;
+}
+
+.right-box h5{
+    text-align: left;
+}
+
+.option-1 select{
+    width: 320px;
+    height: 40px;
+    background-color: rgb(222, 222, 250);
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+.option-2 select{
+    width: 320px;
+    height: 40px;
+    background-color: rgb(211, 211, 247);
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+h5{
+    color: rgb(160, 157, 157);
+}
